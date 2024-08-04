@@ -1,8 +1,9 @@
+
 /* Contact information section */
 .contact-info {
     width: 100%;
     background-color: #07c724; /* Light background color */
-    color: #ffffff; /* Text color */
+    color: #333; /* Text color */
     padding: 3px 12px; /* Padding for some space around the text */
     text-align: center; /* Center-align the text */
     font-size: 14px; /* Font size for the text */

@@ -12,6 +12,7 @@
 }
 .about-right{
     flex-basis: 56%;
+    text-align: justify;
 }
 .about-img{
     width: 100%;
@@ -29,6 +30,7 @@
     font-weight: 600;
     font-weight: 16px;
     color: #38b100;
+    text-align: center;
 }
 
 .about h2{
@@ -36,11 +38,13 @@
     color: #347914;
     margin: 10px 0;
     max-width: 400px;
+    text-align: center;
 }
 
 .about p{
     color: #676767;
     margin-bottom: 15px;
+    text-align: justify;
 }
 
 /* ----- media query---*/

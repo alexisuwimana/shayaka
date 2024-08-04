@@ -12,7 +12,7 @@
 .contact-col h3{
     color: #000F38;
     font-weight: 500;
-    font-size: 25px;
+    font-size: 20px;
     display: flex;
     align-items: center;
     margin-bottom: 20px;
@@ -24,7 +24,7 @@
 .contact-col p{
     max-width: 450px;
     list-style: 0.3;
-    text-align: justify;
+   
 }
 .contact-col ul li{
     display: flex;

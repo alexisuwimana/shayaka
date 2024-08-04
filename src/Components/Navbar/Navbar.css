@@ -2,8 +2,8 @@
 .contact-info {
     width: 100%;
     background-color: #07c724; /* Light background color */
-    color: #333; /* Text color */
-    padding: 10px 0; /* Padding for some space around the text */
+    color: #ffffff; /* Text color */
+    padding: 3px 12px; /* Padding for some space around the text */
     text-align: center; /* Center-align the text */
     font-size: 14px; /* Font size for the text */
     border-bottom: 1px solid #ddd; /* Optional: Border at the bottom */
@@ -12,12 +12,6 @@
     left: 0;
     z-index: 10; /* Ensure it is above other elements */
   }
-
-
-
-
-
-
 
 nav{
     width: 100%;
@@ -34,6 +28,7 @@ nav{
 }
 .logo{
     width: 180px;
+    margin-top: 1px;
 }
 nav ul li{
     display: inline-block;
@@ -57,6 +52,7 @@ nav ul li{
 @media (max-width: 1000px){
     .logo{
         width: 140px;
+        margin: 20px;
     }
     nav ul li{
         margin: 10px 15px;
@@ -86,6 +82,7 @@ nav ul li{
         display: block;
         width: 30px;
         cursor: pointer;
+        margin-top: 1px;
     }
     .hide-mobile-menu{
         right: -200px;

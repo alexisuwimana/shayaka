@@ -27,6 +27,11 @@ nav{
     justify-content: space-between;
     z-index: 9;
 }
+
+p{  color: #fff; 
+    font-size: 18px;
+}
+
 .logo{
     width: 180px;
     margin-top: 1px;
@@ -45,7 +50,6 @@ nav ul li{
 .menu-icon{
     display: none;
 }
-
 
 
 /* ------ media query -----*/

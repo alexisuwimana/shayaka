@@ -30,14 +30,23 @@
     font-weight: 600;
     font-weight: 16px;
     color: #38b100;
+    margin: 10px 0;
     text-align: center;
 }
 
-.about h2{
+/* .about h2{
     font-size: 35px;
     color: #347914;
     margin: 10px 0;
     max-width: 400px;
+    text-align: center;
+} */
+
+.about h2{
+    font-weight: 600;
+    font-weight: 16px;
+    color: #38b100;
+    margin: 10px 0;
     text-align: center;
 }
 

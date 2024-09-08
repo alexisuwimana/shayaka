@@ -3,7 +3,7 @@ import './Contacts.css'
 import msg_icon from '../../assets/msg-icon.png'
 import mail_icon from '../../assets/mail-icon.png'
 import phone_icon from '../../assets/phone-icon.jpg'
-import location_icon from '../../assets/location-icon.png'
+// import location_icon from '../../assets/location-icon.png'
 //import white_arrow from '../../assets/white-arrow.png'
 
 
@@ -35,22 +35,15 @@ const Contact = () => {
   };
 
 
-
-
-
-
-
-
   return (
     <div className='contact'>
         <div className="contact-col">
             <h3>Send us a message<img src={msg_icon} alt=''/></h3>
-            <p>feel free to reach out through contact form or find our contact information bellow.
-              feel free to reach out through contact form or find our contact information bellow.</p>
+            <p>feel free to reach out through contact form or find our contact information bellow.</p>
             <ul>
-                <li><img src={mail_icon} alt='' />hyakacs@gmail.com</li>
-                <li><img src={phone_icon} alt='' />+ 1 123-456-7890</li>
-                <li><img src={location_icon} alt='' />77 kingdom Ave, NC <br/> MA 01234, USA</li>
+                <li><img src={mail_icon} alt='' />munyesjeanclaude@gmail.com</li>
+                <li><img src={phone_icon} alt='' />+1 (919) 813-9762</li>
+                {/* <li><img src={location_icon} alt='' />77 kingdom Ave, NC <br/> MA 01234, USA</li> */}
             </ul>
         </div>
         <div className='contact-col'>

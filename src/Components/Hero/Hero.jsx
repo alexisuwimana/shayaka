@@ -6,10 +6,11 @@ const Hero = () => {
   return (
     <div className='hero container'>
         <div className='hero-text'>
-            <h1>We Ensure better Cleaning for your place</h1>
-            <p>We are a locally owned, small business, employing people (people, who we might add, are exceptional human beings!) 
-              in YOUR community. Unlike the well-known, national cleaning chains’ systematic approach, we pride ourselves on being 
-              able to offer you a customized, high-quality service that fits into your life just the way you need it to. </p>
+            <h1>Ensuring a Cleaner, Happier Place for You</h1>
+            <p>We are a locally owned small business dedicated to providing top-notch cleaning services tailored to your unique needs. 
+              Our team is made up of exceptional individuals from your community who take pride in delivering customized, high-quality care. 
+              Unlike national cleaning chains with a one-size-fits-all mentality, we believe in a more personalized approach, 
+              ensuring that our services seamlessly fit into your life.</p>
             <button className='btn'>Explore more </button>
         </div>
     </div>
